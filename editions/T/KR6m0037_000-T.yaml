@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6m0037/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 寶藏論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1857.xml
+    old_id: T45n1857
+hash: sha256:f154596937e49902b4796339eaf3c9d9d6ecb41e158d08c222325151e9968b81

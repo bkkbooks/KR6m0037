@@ -1,0 +1,72 @@
+canonical_identifier: bkk:krp/KR6m0037/v1
+canonical_location: https://kanripo.org/bkk/KR6m0037/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 寶藏論
+  identifiers:
+    alt_id:
+    - T45n1857
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1857.xml
+    old_id: T45n1857
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6m0037_000.yaml, hash: 'sha256:f154596937e49902b4796339eaf3c9d9d6ecb41e158d08c222325151e9968b81'}
+  - {seq: 1, filename: KR6m0037_001.yaml, hash: 'sha256:18015da08f7134cec22ef744387a0d256fee9c56eeb989661acf9730a4a44f64'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6m0037_001.markers.yaml, hash: 'sha256:97be051b53d7e2ed130f783cc438b67a9c26979c608ba057c49a5687aa8de9d2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6m0037_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9722
+  label: 寶藏論
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0037_T_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 1 廣照空有品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0037_T_001-mulu-2
+    span:
+    - body
+    - 3278
+    - 3278
+  label: 2 離微體淨品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0037_T_001-mulu-3
+    span:
+    - body
+    - 6496
+    - 6496
+  label: 3 本際虛玄品
+  type: mulu
+  level: 1
+hash: sha256:97fc80a0831a1eb599503a346b773d44ce86420c43ea80a8601f19df6c128a67
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
